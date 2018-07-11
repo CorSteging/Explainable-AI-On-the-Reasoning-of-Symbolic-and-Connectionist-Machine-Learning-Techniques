@@ -1,0 +1,1 @@
+This directory will contain the rules of the classifier after running the code
