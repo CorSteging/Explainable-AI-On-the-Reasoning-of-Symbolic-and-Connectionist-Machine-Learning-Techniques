@@ -1,0 +1,237 @@
+Is 'capital' greater or equal to '2998'?
+IF TRUE ->
+OUTPUT{'0': 100.0}
+ELSE ->
+Is 'paid_contributions' greater or equal to '4'?
+IF TRUE ->
+Is 'residence' greater or equal to '1'?
+IF TRUE ->
+Is 'spouse' greater or equal to '1'?
+IF TRUE ->
+Is 'age' greater or equal to '60'?
+IF TRUE ->
+Is 'attr5' greater or equal to '35'?
+IF TRUE ->
+Is 'attr13' greater or equal to '40'?
+IF TRUE ->
+Is 'capital' greater or equal to '24'?
+IF TRUE ->
+Is 'attr8' greater or equal to '3'?
+IF TRUE ->
+Is 'attr46' greater or equal to '100'?
+IF TRUE ->
+Is 'age' greater or equal to '69'?
+IF TRUE ->
+OUTPUT{'0': 100.0}
+ELSE ->
+OUTPUT{'1': 100.0}
+ELSE ->
+Is 'attr8' greater or equal to '100'?
+IF TRUE ->
+Is 'attr1' greater or equal to '71'?
+IF TRUE ->
+OUTPUT{'1': 100.0}
+ELSE ->
+OUTPUT{'0': 100.0}
+ELSE ->
+Is 'attr44' greater or equal to '3'?
+IF TRUE ->
+OUTPUT{'1': 88.76, '0': 11.24}
+ELSE ->
+Is 'age' greater or equal to '88'?
+IF TRUE ->
+OUTPUT{'1': 100.0}
+ELSE ->
+OUTPUT{'0': 100.0}
+ELSE ->
+Is 'attr12' greater or equal to '62'?
+IF TRUE ->
+OUTPUT{'1': 100.0}
+ELSE ->
+OUTPUT{'0': 100.0}
+ELSE ->
+OUTPUT{'0': 100.0}
+ELSE ->
+Is 'attr12' greater or equal to '64'?
+IF TRUE ->
+Is 'attr22' greater or equal to '5'?
+IF TRUE ->
+Is 'attr3' greater or equal to '3'?
+IF TRUE ->
+Is 'attr30' greater or equal to '100'?
+IF TRUE ->
+OUTPUT{'0': 0}
+ELSE ->
+Is 'attr32' greater or equal to '100'?
+IF TRUE ->
+OUTPUT{'0': 0}
+ELSE ->
+Is 'attr29' greater or equal to '99'?
+IF TRUE ->
+Is 'age' greater or equal to '67'?
+IF TRUE ->
+OUTPUT{'1': 0}
+ELSE ->
+OUTPUT{'0': 100.0}
+ELSE ->
+Is 'attr8' greater or equal to '2'?
+IF TRUE ->
+OUTPUT{'1': 93.33, '0': 6.67}
+ELSE ->
+OUTPUT{'0': 0}
+ELSE ->
+OUTPUT{'0': 0}
+ELSE ->
+OUTPUT{'0': 100.0}
+ELSE ->
+Is 'attr31' greater or equal to '3'?
+IF TRUE ->
+Is 'attr21' greater or equal to '79'?
+IF TRUE ->
+Is 'attr12' greater or equal to '57'?
+IF TRUE ->
+OUTPUT{'0': 100.0}
+ELSE ->
+Is 'attr35' greater or equal to '69'?
+IF TRUE ->
+Is 'attr12' greater or equal to '6'?
+IF TRUE ->
+OUTPUT{'1': 100.0}
+ELSE ->
+OUTPUT{'0': 0}
+ELSE ->
+Is 'capital' greater or equal to '2248'?
+IF TRUE ->
+Is 'attr13' greater or equal to '36'?
+IF TRUE ->
+OUTPUT{'0': 100.0}
+ELSE ->
+OUTPUT{'1': 100.0}
+ELSE ->
+Is 'attr18' greater or equal to '23'?
+IF TRUE ->
+Is 'attr33' greater or equal to '18'?
+IF TRUE ->
+OUTPUT{'0': 100.0}
+ELSE ->
+Is 'attr15' greater or equal to '91'?
+IF TRUE ->
+OUTPUT{'0': 0}
+ELSE ->
+OUTPUT{'1': 100.0}
+ELSE ->
+OUTPUT{'1': 100.0}
+ELSE ->
+Is 'attr26' greater or equal to '93'?
+IF TRUE ->
+Is 'attr24' greater or equal to '73'?
+IF TRUE ->
+Is 'attr10' greater or equal to '24'?
+IF TRUE ->
+OUTPUT{'0': 100.0}
+ELSE ->
+OUTPUT{'1': 0}
+ELSE ->
+Is 'attr12' greater or equal to '10'?
+IF TRUE ->
+OUTPUT{'1': 100.0}
+ELSE ->
+OUTPUT{'0': 100.0}
+ELSE ->
+Is 'attr22' greater or equal to '14'?
+IF TRUE ->
+Is 'distance' greater or equal to '96'?
+IF TRUE ->
+Is 'attr30' greater or equal to '56'?
+IF TRUE ->
+OUTPUT{'0': 100.0}
+ELSE ->
+OUTPUT{'1': 100.0}
+ELSE ->
+Is 'attr9' greater or equal to '100'?
+IF TRUE ->
+OUTPUT{'0': 100.0}
+ELSE ->
+Is 'attr9' greater or equal to '5'?
+IF TRUE ->
+Is 'attr12' greater or equal to '63'?
+IF TRUE ->
+OUTPUT{'0': 0}
+ELSE ->
+Is 'attr23' greater or equal to '3'?
+IF TRUE ->
+Is 'attr25' greater or equal to '2'?
+IF TRUE ->
+Is 'attr48' greater or equal to '4'?
+IF TRUE ->
+Is 'attr48' greater or equal to '97'?
+IF TRUE ->
+Is 'age' greater or equal to '81'?
+IF TRUE ->
+OUTPUT{'0': 100.0}
+ELSE ->
+OUTPUT{'1': 100.0}
+ELSE ->
+OUTPUT{'1': 96.75, '0': 3.25}
+ELSE ->
+OUTPUT{'0': 0}
+ELSE ->
+OUTPUT{'0': 0}
+ELSE ->
+OUTPUT{'0': 0}
+ELSE ->
+Is 'attr10' greater or equal to '62'?
+IF TRUE ->
+Is 'age' greater or equal to '93'?
+IF TRUE ->
+OUTPUT{'1': 0}
+ELSE ->
+OUTPUT{'0': 100.0}
+ELSE ->
+OUTPUT{'1': 100.0}
+ELSE ->
+Is 'attr23' greater or equal to '89'?
+IF TRUE ->
+OUTPUT{'0': 100.0}
+ELSE ->
+Is 'attr9' greater or equal to '17'?
+IF TRUE ->
+Is 'age' greater or equal to '66'?
+IF TRUE ->
+Is 'attr2' greater or equal to '20'?
+IF TRUE ->
+Is 'attr2' greater or equal to '95'?
+IF TRUE ->
+OUTPUT{'0': 0}
+ELSE ->
+OUTPUT{'1': 100.0}
+ELSE ->
+Is 'attr10' greater or equal to '80'?
+IF TRUE ->
+OUTPUT{'1': 0}
+ELSE ->
+OUTPUT{'0': 100.0}
+ELSE ->
+OUTPUT{'0': 100.0}
+ELSE ->
+OUTPUT{'0': 100.0}
+ELSE ->
+OUTPUT{'0': 100.0}
+ELSE ->
+Is 'attr21' greater or equal to '100'?
+IF TRUE ->
+Is 'age' greater or equal to '97'?
+IF TRUE ->
+OUTPUT{'1': 0}
+ELSE ->
+OUTPUT{'0': 100.0}
+ELSE ->
+OUTPUT{'1': 91.79, '0': 8.21}
+ELSE ->
+OUTPUT{'0': 100.0}
+ELSE ->
+OUTPUT{'0': 100.0}
+ELSE ->
+OUTPUT{'0': 100.0}
+ELSE ->
+OUTPUT{'0': 100.0}

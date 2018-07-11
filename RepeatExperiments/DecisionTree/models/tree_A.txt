@@ -1,0 +1,21 @@
+Is 'capital' greater or equal to '2998'?
+IF TRUE ->
+OUTPUT{'0': 100.0}
+ELSE ->
+Is 'age' greater or equal to '60'?
+IF TRUE ->
+Is 'paid_contributions' greater or equal to '4'?
+IF TRUE ->
+Is 'spouse' greater or equal to '1'?
+IF TRUE ->
+Is 'residence' greater or equal to '1'?
+IF TRUE ->
+OUTPUT{'1': 100.0}
+ELSE ->
+OUTPUT{'0': 100.0}
+ELSE ->
+OUTPUT{'0': 100.0}
+ELSE ->
+OUTPUT{'0': 100.0}
+ELSE ->
+OUTPUT{'0': 100.0}
