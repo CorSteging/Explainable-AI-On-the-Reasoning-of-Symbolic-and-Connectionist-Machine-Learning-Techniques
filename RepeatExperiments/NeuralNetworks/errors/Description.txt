@@ -1,0 +1,1 @@
+This directory will contain the errors of the networks after running the code
